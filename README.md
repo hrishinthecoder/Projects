@@ -12,7 +12,7 @@
      - Visualization of attrition drivers such as job satisfaction and work-life balance.
      - Machine learning models to predict attrition.
 
-### 2. **Student Database Management**
+### 2. **Students Database **
    - A project to manage and analyze student data effectively.
    - Tools: SQL, Bash.
    - Key Features:
