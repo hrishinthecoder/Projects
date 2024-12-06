@@ -1,4 +1,4 @@
-# HR Attrition and Employee Analysis
+# HR Attrition Analysis
 
 **This repository contains the projects that are not included in my CV (Consortium Analytics).** This specific project focuses on analyzing employee attrition data to identify key trends and factors influencing employee turnover. By leveraging data preprocessing, exploratory analysis, and machine learning techniques, this project provides actionable insights and predictions to improve employee retention.
 
