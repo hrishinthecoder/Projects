@@ -1,48 +1,46 @@
-# Projects Repository: Beyond the CV
 
-**This repository contains the projects that are not included in my CV (Consortium Analytics).** These projects demonstrate my skills in data analysis, visualization, machine learning, and practical problem-solving across various domains.
+# CAPM Project
 
-## Projects Overview
+## Overview
+The CAPM Project is a comprehensive implementation of the Capital Asset Pricing Model (CAPM) designed to analyze and predict the expected return on an investment based on its systematic risk.
 
-### 1. **HR Attrition Analysis**
-   - An in-depth analysis of employee attrition trends.
-   - Tools: Python, Pandas, Matplotlib, Numpy.
-   - Key Features:
-     - Data cleaning and preprocessing.
-     - Visualization of attrition drivers such as job satisfaction and work-life balance.
-     - Machine learning models to predict attrition.
+## Features
+- Calculate expected returns using CAPM formula
+- Analyze historical data for various assets
+- Visualize risk and return profiles
 
-### 2. **Students Database **
-   - A project to manage and analyze student data effectively.
-   - Tools: SQL, Bash.
-   - Key Features:
-     - Database creation and maintenance for student records.
-     - Analysis of academic performance and attendance.
-     - Interactive interface for querying data.
+## Installation
+To set up the project locally, follow these steps:
 
-### 3. **Spotify Exploratory Analysis**
-   - Insights into Spotify’s music dataset for user preferences.
-   - Tools: Python, Pandas, Matplotlib, Numpy.
-   - Key Features:
-     - Analysis of song attributes such as tempo, loudness, and energy.
-     - Identification of trends in popular genres and artists.
-     - Visualization of streaming behaviors.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hrishinthecoder/CAPM-Project.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd CAPM-Project
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### 4. **Financial Insights Dashboard**
-   - A project focused on cleaning and visualizing banking data.
-   - Tools: Python, Power BI.
-   - Key Features:
-     - Data cleaning and transformation for robust analytics.
-     - Creation of interactive dashboards for customer segmentation and transaction patterns.
-     - Visual insights into product performance and revenue trends.
+## Usage
+To run the project, execute the following command:
+```bash
+python main.py
+```
+Make sure to replace `main.py` with the appropriate entry point of your application if different.
 
-### 5. **Sentiment Analysis and Web Scraping (Freelance Project)**
-   - Tools: Python, App-reviews scraper, numpy, nltk.
-   - Key Features:
-     - Scraping reviews from app reviews.
-     - Couldn't classify more due to client restrictions.
-     - For Thesis work.
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
----
+## License
+This project is licensed under the MIT License.
 
+## Acknowledgments
+- [CAPM Theory](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+- [Python Libraries](https://www.python.org/)
 
+## Contact
+For any inquiries, please reach out to [i.am.hrishin@gmail.com](mailto:i.am.hrishin@gmail.com).
