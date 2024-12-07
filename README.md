@@ -4,14 +4,22 @@
 
 ## Projects Overview
 
-### 1. **HR Attrition Analysis**
+### 1. **Capital Asset Pricing Model (CAPM) Project**
+   - A project focused on analyzing risk and return in financial portfolios using the CAPM framework.
+   - Tools: Python, Streamlit, Plotly.
+   - Key Features:
+     - Fetches and preprocesses stock and market data for selected assets.
+     - Calculates risk metrics such as Beta, Sharpe Ratio, and Volatility.
+     - Visualizes normalized prices, cumulative returns, and risk metrics in an interactive dashboard.
+
+### 2. **HR Attrition Analysis**
    - An in-depth analysis of employee attrition trends.
    - Tools: Python, Pandas, Matplotlib, Seaborn.
    - Key Features:
      - Data cleaning and preprocessing.
      - Visualization of attrition drivers such as job satisfaction and work-life balance.
 
-### 2. **Loan Performance and Investor Return Analysis (Technocolabs Softwares Internship)**
+### 3. **Loan Performance and Investor Return Analysis (Technocolabs Softwares Internship)**
    - A project focused on cleaning and visualizing banking data.
    - Tools: Python, Power BI.
    - Key Features:
@@ -41,15 +49,4 @@
      - Database creation and maintenance for student records.
      - Analysis of academic performance and attendance.
      - Interactive interface for querying data.
-
-### 6. **Capital Asset Pricing Model (CAPM) Project**
-   - A project focused on analyzing risk and return in financial portfolios using the CAPM framework.
-   - Tools: Python, Streamlit, Plotly.
-   - Key Features:
-     - Fetches and preprocesses stock and market data for selected assets.
-     - Calculates risk metrics such as Beta, Sharpe Ratio, and Volatility.
-     - Visualizes normalized prices, cumulative returns, and risk metrics in an interactive dashboard.
-
-
-
 ---
